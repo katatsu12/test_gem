@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["katatsu12@gmail.com"]
 
   spec.summary       = %q{A greeter gem}
+  spec.description   = "greeter gem, my first gem"
   spec.homepage      = "https://github.com/katatsu12/test_gem"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
